@@ -102,3 +102,13 @@ Le PM lira ce fichier et produira automatiquement :
 ## Notes projet
 # Ajouter ici les décisions techniques importantes au fil du projet
 # Exemples : choix de librairie, compromis acceptés, dette technique
+## Démarrage
+Si CLAUDE.md n'est pas encore rempli, demander à l'utilisateur :
+1. Nom et URL du projet
+2. Description en 1 phrase
+3. Services externes (paiement, WhatsApp, SMS, images)
+4. Palette de couleurs (hex) + typographie souhaitée
+5. Inspiration visuelle (référence ou style)
+
+Ensuite générer automatiquement les 3 fichiers et attendre validation
+avant de lancer le competitive-brief.
